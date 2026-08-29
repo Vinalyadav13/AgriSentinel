@@ -12,7 +12,6 @@ env/
 
 
 # Large trained model weights
-*.pt
 *.pth
 *.onnx
 
@@ -25,3 +24,6 @@ Master_Dataset/test/images/
 # Temporary files
 *.tmp
 *.log
+
+# Training run weights
+runs/**/weights/
