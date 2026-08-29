@@ -9,8 +9,7 @@ env/
 # macOS
 .DS_Store
 
-# Training outputs
-runs/
+
 
 # Large trained model weights
 *.pt
