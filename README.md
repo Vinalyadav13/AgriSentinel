@@ -114,6 +114,6 @@ Training and evaluation results for **YOLO26 and RT-DETR** are available in the 
 
 ## 🖥️ Output
 
-<img src="images/Result_Image%20%281%29.png" alt="AgriSentinel Output" width="700">
+<img src="images/Result_Image%20%281%29.png" alt="AgriSentinel Output" width="500">
 
 
