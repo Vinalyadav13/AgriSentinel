@@ -108,6 +108,8 @@ Training and evaluation results for **YOLO26 and RT-DETR** are available in the 
                                            ▼
                                   🔊 Deterrent Output
 
+---
+
 ## 🖥️ Output
 
 ![AgriSentinel Output](images/Result_Image%20%281%29.png)  
