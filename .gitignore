@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Training outputs
+runs/
+
+# Large trained model weights
+*.pt
+*.pth
+*.onnx
+
+# Dataset images
+Master_Dataset/train/images/
+Master_Dataset/valid/images/
+Master_Dataset/val/images/
+Master_Dataset/test/images/
+
+# Temporary files
+*.tmp
+*.log
